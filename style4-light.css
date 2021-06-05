@@ -203,6 +203,8 @@ hr{
         font-size: 20px;
         padding: 10px;
         height: auto;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
     .review-name , .body2-text ul , .body-btn{
         font-size: 15px;
